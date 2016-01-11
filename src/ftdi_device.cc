@@ -3,6 +3,7 @@
 #include <iostream>
 #include <sstream>
 #include <string.h>
+#include <sys/time.h>
 #include <queue>
 #include <node_buffer.h>
 #include <uv.h>
